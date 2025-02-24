@@ -1,0 +1,12 @@
+:root {
+	--color-primary: #6C38CC;
+	--color-bg: #16171D;
+	--сolor-bg-medium: #1E1F29;
+	--color-bg-light: #2E2D3D;
+}
+
+body {
+	background: var(--color-bg);
+	margin: 0;
+}
+
