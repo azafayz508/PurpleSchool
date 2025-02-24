@@ -1,0 +1,8 @@
+.header {
+	background-color: var(--сolor-bg-medium);
+}
+
+.header__wrapper {
+	max-width: 1220px;
+	margin: 0 auto;
+}
