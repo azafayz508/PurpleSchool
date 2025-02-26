@@ -11,7 +11,7 @@
 }
 
 body {
-	font-family: Fira Sans;
+	font-family: "Fira Sans", serif;
 	font-style: normal;
 	font-weight: 400;
 	background: var(--color-bg);
