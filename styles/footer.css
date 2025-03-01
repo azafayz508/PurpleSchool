@@ -1,0 +1,10 @@
+.footer {
+	background: var(--color-bg-dark)
+}
+
+.footer__wrapper {
+    margin: 0 auto;
+    max-width: var(--layout-max-width);
+    padding: 60px 24px;
+}
+
